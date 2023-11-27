@@ -2,7 +2,7 @@
   "name": "pixopolis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Siddhu-123.github.io/finalwebsitepixopolis",
+  "homepage": "https://siddhu-123.github.io/finalwebsitepixopolis",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
